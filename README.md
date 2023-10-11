@@ -11,3 +11,4 @@ Advent of Code using only Go to learn the language.
 5. [Day 5](/day5)
 6. [Day 6](/day6)
 7. [Day 7](/day7)
+8. [Day 8](/day8)
